@@ -14,6 +14,8 @@ ASP.NET Core is a cross-platform web framework that enables the development of h
 ### 2. **Elasticsearch**
 Elasticsearch is a distributed search and analytics engine used for full-text search, logging, and analyzing large volumes of data. It is built on top of Apache Lucene and provides powerful search capabilities, scalability, and real-time indexing.
 
+![Screenshot 6](https://github.com/ilkersatur/ElasticSearch-Kibana-Serilog-Integration-NetCore/blob/main/docker.png)
+
 - **Key Features**:
   - Full-text search
   - Distributed architecture for scalability
@@ -28,6 +30,9 @@ Kibana is a data visualization tool that works in conjunction with Elasticsearch
   - Real-time data exploration
   - Integration with Elasticsearch for search and analysis
   - User-friendly interface for monitoring and analyzing data
+
+![Screenshot 6](https://github.com/ilkersatur/ElasticSearch-Kibana-Serilog-Integration-NetCore/blob/main/elastic.png)
+![Screenshot 6](https://github.com/ilkersatur/ElasticSearch-Kibana-Serilog-Integration-NetCore/blob/main/elastic-2.png)
   
 ### 4. **Serilog**
 Serilog is a logging library for .NET that makes structured logging easy. It provides extensive support for various logging sinks, including Elasticsearch. By integrating Serilog with Elasticsearch, logs can be stored and indexed in Elasticsearch, allowing for powerful querying and visualizing with Kibana.
@@ -48,3 +53,6 @@ Serilog is a logging library for .NET that makes structured logging easy. It pro
 ## Conclusion
 
 Integrating **ASP.NET Core**, **Elasticsearch**, **Kibana**, and **Serilog** provides a comprehensive solution for logging, searching, and analyzing application data. It improves application monitoring and troubleshooting, making it easier to maintain and optimize web applications.
+
+![Screenshot 6](https://github.com/ilkersatur/ElasticSearch-Kibana-Serilog-Integration-NetCore/blob/main/elastic-error.png)
+![Screenshot 6](https://github.com/ilkersatur/ElasticSearch-Kibana-Serilog-Integration-NetCore/blob/main/elastic-log.png)
